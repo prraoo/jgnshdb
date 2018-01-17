@@ -4,7 +4,7 @@ Source : [Youtube Link](https://www.youtube.com/watch?v=_0prjrDuPiU)
 
 ### Notes:
 
-- Conard Susse 1FLOP/s
+- [Konrad Zuse](http://people.idsia.ch/~juergen/zuse.html) 1FLOP/s
 - Computers will exponentially become faster
 - General Purpose Reinforcement Learning
 - True AGI by two decades!
@@ -13,3 +13,10 @@ Source : [Youtube Link](https://www.youtube.com/watch?v=_0prjrDuPiU)
 - Complex AI ecology: AI will spreading away from human centric to exploring the universe
 
 #### Humans need to give up the pinnacle of creation. 
+
+## Speech 2 - Technical Singularity 
+
+Source : [Youtube Link](https://www.youtube.com/watch?v=Ws7oT99_wew)
+
+### Notes:
+
