@@ -3,6 +3,6 @@ This repository contains brief summaries/notes related to various lectures and s
 
 ## Sections
 
-- [Speeches](jgnshdb/Speechs.md)
+- [Speeches](/Speechs.md)
 - Lectures
 - Papers
